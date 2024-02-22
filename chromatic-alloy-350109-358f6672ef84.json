@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chromatic-alloy-350109",
+  "private_key_id": "358f6672ef8476bd2dbded38213c7b77bda6ec31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/oT/TXnbSrptz\nRhvh6l1/Ydo756NgpNLSOR1WuTfk/T1DUnultmlMKOwsnoFsaVckiTobyiTEa+Xg\njeY04vdjOMo67o8HtOo0j89i2JqaVEvPR+nJi+iNXgpaH1MgHhhaE8QHM48fAENE\nvFME5jowZNBdJFRktJHKhjK1y/pCIt3wwfrFw1IYL7SAgAg0sHdecvwYyAEBXLZT\nQF3lv85EI7IqNHzpoqYmWWpaTPQeH7GmaeDaJzkkqBms4+qjKJDq8rOgj1zJeVvN\nejaKg2Cm2BDOIt2OQaFxOAbH8XfTw765c5v++NutMfQo9ZlmrrnmfQ0SY2xMFW4L\nSpUbd4WnAgMBAAECggEAH5AlLaDpDGGTHCUHkanjFYieA/Du0YvEZ7jdkru2L6Lg\ndNbAo/ZMGK3C3MSMx7kAD/YEWrBsZufouJhWuw5JNhAUCyng6CGN0/N98qd/q3zH\n8c/D+5zuRF6hcN+o9ujOFQQdbRw6bh5Cdi9Ysz1ihzcLtNO3jNDLFKMO9i+vPDYt\n/vqzDZBH22bBWrIfOA7wNg+7nsF7SxZcjwtjBt382rpN/MSQcY3OH8+sSK6exhCU\nuNJmpp+wQlQFTneqVtdZ48U/lxKjj8YeVRAIGJNz+URdtb3GoJhRQNLJkdkhhncj\nC+T3S8kMfdbg9KDVrd0amn9ZisTkxoP5Q1dNI7uwuQKBgQDj5REjyxAKR/O98CM5\nrVCnPBA195D7kCKWi48+ep+3OQwN1F3pjToA4PWftkVa8KC/N/T9KLAJ/AjuHBXb\nId7wGkmzVu8tljIbvDcybq9MAX1VkZL61QIY1aj7AW/bLHQEefwFi8Iq2qjmK1P5\nl6TvAJtIBV4KJrXThL3AzFCijwKBgQDXQ0CRiINFEeaLcN5YKLiKCtZfSVn6JuXq\n9JNGVH0A0QhH5r2J4jskg+vYxFU1lDNVk92GK2FeVDdyLf5o5slhLsjp/LXDNmqY\nmyL++MBrSUsmklelk1b9/E5sS6FMmUGIifVG3aRSe9JaZx/F50fqtdW4nvgvOvj9\nnVDUMJYXaQKBgQCij/sa+jX17396BLtL4ErBEIJLzM4Z9KYHl4PVwKj/jO0BTHS1\nLe2rRM1RYTa1+SHhZSwYDhcM+EDygQxCJTYfNdFO4Xt5nEMgL7F8AyJ+aC2chVxA\nGwQE7Rw9+Ldus5YKv208E4atBQ8oKM4dI8QeTON3i4SaXySivnSQ++2lFwKBgQCt\nNcI42H24ECVQQmvGyE1lVj8UwTMTZEVQ/6eZydYj2A8vu+z7i/xG75fQ/noJ+Mwt\nqiNwGGvquR08VOIHityzxC+Kh/vBroGrdfl87K/4JCvCR7Ma2in/iQuZfGm39wGS\nWl/wu9vDOzsR3zTjy6xEojfsrI3Lg0pi2Dj35HiBMQKBgCK48H+7utZak6flaU7H\nMVImcXCvuwvnu32X2b4Q2HO3CbYcdgnF9f/YcGW21iye+gOxcz8bSsUqe7wCZDSa\nmIkSQfoEgY6dn91tFsYgy073MTPnjW3M393cDDtcRPNL0YFNvtlGPb9Mb+R/yaEN\nDWJ2Z05H0V3nJ56G3OK8liMi\n-----END PRIVATE KEY-----\n",
+  "client_email": "spezi-510@chromatic-alloy-350109.iam.gserviceaccount.com",
+  "client_id": "117827232043557052634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spezi-510%40chromatic-alloy-350109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
